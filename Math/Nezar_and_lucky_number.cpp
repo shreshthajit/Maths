@@ -1,3 +1,29 @@
+we can see that if the number is greater than or equal to d*10 than there alwars exists an answer
+ if n=43 and d=3
+ than 3*10<43 so 
+     31
+     32
+     33 
+     34
+     35
+     36
+     37 
+     38
+     39
+     31+9
+     32+9
+     33+9
+     .....
+     31+9+9
+     32+9+9
+     33+9+9
+     .......
+
+     
+     so we can always express the answer as the sum of different lucky number.
+
+      #https://codeforces.com/contest/1478/problem/B
+
 #include<bits/stdc++.h>
 using namespace std;
 #define mod (int) 998244353

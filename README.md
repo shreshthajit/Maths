@@ -37,3 +37,5 @@ Expected value :
 #http://www.shafaetsplanet.com/?p=3060
 
 #prob:#https://atcoder.jp/contests/abc185/tasks/abc185_d
+
+#https://programmingpraxis.com/2010/12/17/polite-numbers/?fbclid=IwAR3XdsKF1RATQEbzQPllVCsbt4nCb-J9r4xXsGQII8nL7gMdMGf_Wh7b_6A

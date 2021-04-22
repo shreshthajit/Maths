@@ -1,0 +1,15 @@
+A number is polite if it can be written as the sum of two or more consecutive numbers; for instance, 7 is polite because it can 
+be written at 3 + 4. Some numbers can be written as the sum of two or more consecutive numbers in more than one way; 
+for instance, 15 = 1 + 2 + 3 + 4 + 5 = 4 + 5 + 6 = 7 + 8. The number of ways that a number can be written as the sum of two
+or more consecutive numbers is its politeness. Any number that is a power of 2 cannot be written as the sum of two or 
+more consecutive numbers; such a number has a politeness of 0, and is thus impolite.
+
+There is a set of consecutive integers that sum to a given number for each odd divisor of the number greater than 1.
+For instance, the divisors of 28 are 1, 2, 4, 7, 14, 28. The only odd divisor of 28 greater than 1 is 7, so 28 has
+a politeness of 1. The set of consecutive integers has length 7 (the divisor) and is 
+centered at 4 = 28 ÷ 7: 1 + 2 + 3 + 4 + 5 + 6 + 7; that works because there are 7 numbers with an average 
+of 4 (since they are centered on 4). In some cases, such as the divisor 11 of the number 33, the set of numbers 
+includes negative integers: -2 + -1 + 0 + 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8; in that case, the negative integers cancel 
+out the corresponding positive integers, so the remaining set is 3 + 4 + 5 + 6 + 7 + 8 = 33.
+
+ 
